@@ -1,4 +1,7 @@
-Model compressed with below algorithms. Uncompressed versions are obj files.
+My MSc thesis Model Dataset
+https://aa.bbs.tr/publication/msc-thesis/
+
+Models compressed with below algorithms.
 
 |Algorithm|Folder or File|Author|refs|
 |---------|---------|------|----|
