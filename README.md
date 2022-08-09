@@ -15,3 +15,9 @@ Models compressed with below algorithms.
 |Corto|*.crt|-Ponchio 2015|[Visual Computing Lab](http://vcg.isti.cnr.it/corto/index.html#overview), [github](https://github.com/cnr-isti-vclab/corto)|
 |WebGL|*.x3d,.x3db file|-Chun,W 2011|[code.google](https://code.google.com/archive/p/webgl-loader/)|
 |Draco|*.drc file|Google|[Google Open Source](https://opensource.google.com/projects/draco), [github](https://github.com/google/draco)|
+
+------------
+Thesis Charts  
+- [Exact Precision of EB Geometry](https://docs.google.com/spreadsheets/d/e/2PACX-1vQCeH8U1sEFnoVJMdnw9d24P1JQttFtGBq8ypA_WUz8pR3W8GtR_A61_ltxCubVAADMrgJDno5vKccb/pubhtml)
+- [Exact Precision of EB Connectivity](https://docs.google.com/spreadsheets/d/e/2PACX-1vSqKWttbCipqBD3tmNgTooirFSXrUDOgVt-T1e_50s9owTEtnsNUgUlxWQj9lC8fVk79xf9ypStQUyL/pubhtml)
+- [BCCM 3D Mesh Compression Methods](https://docs.google.com/spreadsheets/d/e/2PACX-1vSLCyCxnm8fAZF5Ar8Y48CiCLTOGJld0LT00A3lFCOvOq9dHB_Uok_IfEdrqTUJKUqIRPwSAxDw6om-/pubhtml)
